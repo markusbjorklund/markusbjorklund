@@ -2,9 +2,9 @@
 
 This page is currently under :construction: so have some :cake: and a cup of :coffee:
 
-- 🔭 Currently I am a student at Centria University of Applied Sciences
-- 🌱 Learning more about React on my free time
-- :video_game: Doing some light gaming when I find the time
+🔭 Currently I am a student at Centria University of Applied Sciences
+🌱 Learning more about React on my free time
+:video_game: Doing some light gaming when I find the time
 
 If you see me around why not buy me a :beer:
 

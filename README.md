@@ -1,6 +1,6 @@
 ### Hi there. My name is Markus and this is my README 👋 
 
-This page is currently under :construction: so have some :cake: and a cup of java. :grin:
+This page is currently under :construction: so have some :cake: and a cup of java :grin:
 
 🔭 I am a student at Centria University of Applied Sciences  
 🌱 Learning more about React on my free time  

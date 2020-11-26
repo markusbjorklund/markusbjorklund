@@ -1,10 +1,10 @@
 ### Hi there. My name is Markus and this is my README 👋 
 
-This page is currently under :construction: so have some :cake: and a cup of :coffee:
+This page is currently under :construction: so have some :cake: and a cup of java. :grin:
 
-- 🔭 Currently I am a student at Centria University of Applied Sciences
-- 🌱 Learning more about React on my free time
-- :video_game: Doing some light gaming when I find the time
+🔭 I am a student at Centria University of Applied Sciences
+🌱 Learning more about React on my free time
+:video_game: Doing some light gaming when I find the time
 
 If you see me around why not buy me a :beer:
 

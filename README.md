@@ -2,11 +2,14 @@
 
 This page is currently under :construction: so have some :cake: and a cup of java :grin:
 
-🔭 I am a student at Centria University of Applied Sciences  
-🌱 Learning more about React on my free time  
-:video_game: Doing some light gaming when I find the time  
 
-If you see me around why not buy me a :beer:
+But since you're here...
+
+🔭 I'm a student at Centria University of Applied Sciences  
+🌱 I'm learning more about React on my free time  
+:video_game: I'm also doing some light gaming when time allows
+
+If you want to know more perhaps we could have a :speech_balloon:
 
 :point_down: **You can find me here** :point_down:
 

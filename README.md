@@ -1,7 +1,7 @@
 ### Hi there. My name is Markus and this is my README 👋 
 
-:school_satchel: I'm a student at Centria University of Applied Sciences  
-:eyeglasses: I'm learning more about React on my free time  
+:school_satchel: I'm studying IT-engineering at Centria University of Applied Sciences  
+:office: I'm working as a layout editor  
 :video_game: I'm also doing some light gaming when time allows
 
 If you want to know more perhaps we could have a :speech_balloon:

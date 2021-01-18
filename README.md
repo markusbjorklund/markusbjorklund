@@ -1,7 +1,7 @@
 ### Hi there. My name is Markus and this is my README 👋 
 
 :school_satchel: I'm studying IT-engineering at Centria University of Applied Sciences  
-:office: I'm working in media as a layout journalist
+:office: I'm working in media as a layout journalist  
 :video_game: I'm also doing some light gaming when time allows
 
 If you want to know more perhaps we could have a :speech_balloon:

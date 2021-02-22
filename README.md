@@ -1,4 +1,4 @@
-### Hi there. My name is Markus and this is my README 👋 
+## Hi there. My name is Markus 👋 
 
 :school_satchel: I'm studying IT-engineering at Centria University of Applied Sciences  
 :office: I'm working in media as a layout journalist  
@@ -10,7 +10,6 @@ If you want to know more perhaps we could have a :speech_balloon:
 
 * Linkedin: https://www.linkedin.com/in/markus-bjorklund
 * Personal site: https://markusbjorklund.com
-* CV: https://markusbjorklund.com/CV
 * Instagram: https://www.instagram.com/markusbjorklunddotcom
 * Twitter: https://twitter.com/markusbjorklund
 * Facebook: https://www.facebook.com/markusbjorklunddotcom

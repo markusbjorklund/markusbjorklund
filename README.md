@@ -6,7 +6,7 @@
 
 If you want to know more perhaps we could have a :speech_balloon:
  
-:point_down: **You can find me here** :point_down:
+**You can find me here** :point_down:
 
 * Linkedin: https://www.linkedin.com/in/markus-bjorklund
 * Personal site: https://markusbjorklund.com

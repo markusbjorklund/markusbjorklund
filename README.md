@@ -10,7 +10,7 @@ If you want to know more perhaps we could have a :speech_balloon:
 
 * [Linkedin](https://www.linkedin.com/in/markus-bjorklund)
 * [Personal website](https://markusbjorklund.com)
-* [Instagram](https://www.instagram.com/markusbjorklunddotcom)
+* [Instagram](https://www.instagram.com/markus__bjorklund)
 * [Twitter](https://twitter.com/markusbjorklund)
 * [Facebook](https://www.facebook.com/markusbjorklunddotcom)
 

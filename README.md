@@ -12,8 +12,7 @@ If you want to know more perhaps we could have a :speech_balloon:
 * Personal site: https://markusbjorklund.com
 * CV: https://markusbjorklund.com/CV
 * Instagram: https://www.instagram.com/markusbjorklunddotcom
-* Twitter: https://twitter.com/markusbjorklund
-* Facebook: https://www.facebook.com/markusbjorklunddotcomx
+* Facebook: https://www.facebook.com/markusbjorklunddotcom
 
 <!--
 **markusbjorklund/markusbjorklund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

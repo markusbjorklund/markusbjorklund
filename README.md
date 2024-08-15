@@ -8,11 +8,11 @@ If you want to know more perhaps we could have a :speech_balloon:
  
 **You can find me here** :point_down:
 
-* Linkedin: https://www.linkedin.com/in/markus-bjorklund
-* Personal site: https://markusbjorklund.com
-* CV: https://markusbjorklund.com/CV
-* Instagram: https://www.instagram.com/markusbjorklunddotcom
-* Facebook: https://www.facebook.com/markusbjorklunddotcom
+* [Linkedin](https://www.linkedin.com/in/markus-bjorklund)
+* [Personal website](https://markusbjorklund.com)
+* [CV](https://markusbjorklund.com/CV)
+* [Instagram](https://www.instagram.com/markus__bjorklund)
+* [Facebook](https://www.facebook.com/markusbjorklunddotcom)
 
 <!--
 **markusbjorklund/markusbjorklund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

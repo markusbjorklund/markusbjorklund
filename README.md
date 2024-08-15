@@ -1,12 +1,12 @@
-### Hi there. My name is Markus and this is my README 👋 
+## Hi there. My name is Markus 👋 
 
-:school_satchel: I'm a student at Centria University of Applied Sciences  
-:eyeglasses: I'm learning more about React on my free time  
-:video_game: I'm also doing some light gaming when time allows
+:school: I'm studying for a bachelors degree in IT-engineering at Centria University of Applied Sciences.   
+:wrench: I'm working in media as a layout journalist.  
+:joystick: I'm also doing some light gaming when time allows.
 
 If you want to know more perhaps we could have a :speech_balloon:
  
-:point_down: **You can find me here** :point_down:
+**You can find me here** :point_down:
 
 * Linkedin: https://www.linkedin.com/in/markus-bjorklund
 * Personal site: https://markusbjorklund.com

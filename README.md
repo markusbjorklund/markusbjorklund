@@ -1,11 +1,7 @@
-## Hi. I am Markus 👋 
+## Hi. I am Markus.
 
 Bachelor of Engineering (Information Technology) graduate with 15+ years in layout and editorial design across print and digital media. Experienced in workflow optimization and automation through software development. Also worked in the metal industry as a welder, bringing hands-on technical skills and a strong work ethic. Focused on using technology to enhance media production and operational efficiency.
-
-If you want to know more perhaps we could have a :speech_balloon:
  
-**You can find me here** :point_down:
-
 * [Linkedin](https://www.linkedin.com/in/markus-bjorklund)
 * [Personal website](https://markusbjorklund.com)
 * [CV](https://markusbjorklund.com/cv)

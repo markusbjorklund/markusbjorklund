@@ -1,8 +1,6 @@
-## Hi there. My name is Markus 👋 
+## Hi. I am Markus 👋 
 
-:school: I'm studying for a bachelors degree in IT-engineering at Centria University of Applied Sciences.   
-:wrench: I'm working in media as a layout journalist.  
-:joystick: I'm also doing some light gaming when time allows.
+Bachelor of Engineering (Information Technology) graduate with 15+ years in layout and editorial design across print and digital media. Experienced in workflow optimization and automation through software development. Also worked in the metal industry as a welder, bringing hands-on technical skills and a strong work ethic. Focused on using technology to enhance media production and operational efficiency.
 
 If you want to know more perhaps we could have a :speech_balloon:
  
@@ -12,7 +10,6 @@ If you want to know more perhaps we could have a :speech_balloon:
 * [Personal website](https://markusbjorklund.com)
 * [CV](https://markusbjorklund.com/cv)
 * [Instagram](https://www.instagram.com/markus__bjorklund)
-* [Facebook](https://www.facebook.com/markusbjorklunddotcom)
 
 <!--
 **markusbjorklund/markusbjorklund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
